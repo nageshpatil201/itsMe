@@ -1,0 +1,15 @@
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradInference" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C6FF"/>
+      <stop offset="100%" stop-color="#0072FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="320" rx="28" fill="#071526"/>
+  <rect x="24" y="28" width="512" height="264" rx="24" fill="url(#gradInference)" opacity="0.28"/>
+  <rect x="70" y="70" width="420" height="180" rx="20" fill="#0E243D"/>
+  <path d="M100 200h80l30-60 40 90 40-120 40 90 30-60 20 60h100" fill="none" stroke="#00C6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="90" y="110" width="180" height="16" rx="8" fill="#153453"/>
+  <rect x="90" y="246" width="360" height="12" rx="6" fill="#153453"/>
+</svg>
+

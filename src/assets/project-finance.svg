@@ -1,0 +1,16 @@
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradFinance" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7AF5B4"/>
+      <stop offset="100%" stop-color="#2EB67D"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="320" rx="28" fill="#061A13"/>
+  <rect x="18" y="24" width="524" height="272" rx="24" fill="url(#gradFinance)" opacity="0.3"/>
+  <rect x="60" y="60" width="440" height="200" rx="18" fill="#0E2A1F"/>
+  <path d="M100 220c40-90 80-90 120 0s80 90 120 0 80-90 120 0" fill="none" stroke="#7AF5B4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="90" y="90" width="160" height="16" rx="8" fill="#1A4736"/>
+  <rect x="310" y="90" width="140" height="16" rx="8" fill="#1A4736"/>
+  <rect x="90" y="260" width="380" height="12" rx="6" fill="#1A4736"/>
+</svg>
+
