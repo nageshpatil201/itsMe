@@ -4,8 +4,7 @@ export const contact = {
   email_icon:'📨',
   phone: '+91 63636 77850',
   location: 'Bengaluru, India',
-  website: 'https://nagesh-patil.netlify.app',
-  availability: 'Open to backend-focused roles leveraging MERN + Spring Boot experience (2.3 years)'
+  availability: 'Open to backend-focused roles leveraging MERN + Spring Boot experience (3 years)'
 }
 
 export const socialLinks = [

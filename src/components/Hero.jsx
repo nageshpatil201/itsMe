@@ -97,7 +97,7 @@ function Hero({ contact, navLinks }) {
           <p className="hero__eyebrow">Software Engineer · MERN + Spring Boot</p>
           <h1>Shipping resilient retail-tech and booking platforms that stay reliable at scale.</h1>
           <p className="hero__summary">
-            2.5 years of experience building scalable microservices, Kafka event flows, and cloud deployments on AWS.
+            3 years of experience building scalable microservices, Kafka event flows, and cloud deployments on AWS.
             I specialize in modernizing legacy stacks into high-performing MERN + Spring Boot systems backed by robust
             DevOps practices.
           </p>
@@ -115,11 +115,11 @@ function Hero({ contact, navLinks }) {
           <div className="hero__meta">
             <div>
               <span className="hero__meta-label">Experience</span>
-              <p>2.5 years</p>
+              <p>3 years</p>
             </div>
             <div>
               <span className="hero__meta-label">Focus</span>
-              <p>MERN + Spring Boot</p>
+              <p>MERN + Nextjs + Spring Boot + Cloud</p>
             </div>
             <div>
               <span className="hero__meta-label">Location</span>
